@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 
-Setup instructions can be found here: [ESP-IDF Programming Guide](esp-idf-programming-guide).
+Setup instructions can be found here: [ESP-IDF Programming Guide][esp-idf-programming-guide].
 
 ## Features
 
